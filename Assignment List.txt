@@ -1,0 +1,11 @@
+10001| Nguyen Dang Tran    | Ha Noi    | 0739539256  | A    |
+Assignment List: 
+Route id: 101 - 5 turns
+Route id: 102 - 10 turns
+Total Distance: 1050
+-------------------------------------------------------------
+10002| Nguyen Tuan Kiet    | Ha Nam    | 0734579256  | B    |
+Assignment List: 
+Route id: 101 - 2 turns
+Total Distance: 100
+-------------------------------------------------------------
